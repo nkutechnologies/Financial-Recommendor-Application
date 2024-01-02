@@ -1,0 +1,22 @@
+
+header {
+    /* background-color: #333; */
+    background-image: radial-gradient(circle, #d1d1d1, #bccee6, #84d3f1, #28d9df, #00d9ac, #49cd7c, #70be49, #90ad00, #ae9400, #c37900, #d05917, #d33737);
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+.credit-image{
+    background-image: url('../assets/Untitled design.jpg');
+    background-size: cover;
+}
+
+.investment-image{
+    background-image: url('../assets/dylan-calluy-JpflvzEl5cg-unsplash.jpg');
+    background-size: cover;
+}
